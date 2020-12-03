@@ -1,0 +1,3112 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="66" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="1000" />
+          <Fields>
+            <Field name="Field1" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1-8 n: dpwpmhknmnlglhjtrbpx</c>
+            </r>
+            <r>
+              <c>11-12 n: frpknnndpntnncnnnnn</c>
+            </r>
+            <r>
+              <c>4-8 t: tmttdtnttkr</c>
+            </r>
+            <r>
+              <c>12-18 v: vvvvvvvqvvvvvqvvgf</c>
+            </r>
+            <r>
+              <c>3-4 c: cccc</c>
+            </r>
+            <r>
+              <c>17-18 z: zzzzzzzzdzzzzzzgzr</c>
+            </r>
+            <r>
+              <c>5-6 l: llltzl</c>
+            </r>
+            <r>
+              <c>4-5 g: fzfng</c>
+            </r>
+            <r>
+              <c>3-6 b: bjsbbxbb</c>
+            </r>
+            <r>
+              <c>4-5 b: dbbbl</c>
+            </r>
+            <r>
+              <c>1-4 t: tttcrt</c>
+            </r>
+            <r>
+              <c>8-11 t: tttwtttwttn</c>
+            </r>
+            <r>
+              <c>16-17 m: mmmmmmmmmmmmmmmbp</c>
+            </r>
+            <r>
+              <c>8-11 f: fffffffqfmzfff</c>
+            </r>
+            <r>
+              <c>10-12 n: nnnnnnnnnncvnnnf</c>
+            </r>
+            <r>
+              <c>5-15 b: ztmcfqsrbvbbbqbxw</c>
+            </r>
+            <r>
+              <c>12-13 m: mmmmmmrwmnmmr</c>
+            </r>
+            <r>
+              <c>5-6 d: sddddznddddkzdbpdv</c>
+            </r>
+            <r>
+              <c>14-15 l: lsllllskllllllllll</c>
+            </r>
+            <r>
+              <c>3-4 z: zvrz</c>
+            </r>
+            <r>
+              <c>2-8 h: fthhhqhghhtf</c>
+            </r>
+            <r>
+              <c>2-4 x: xhtxsp</c>
+            </r>
+            <r>
+              <c>6-10 q: qqlxqcvqwqqx</c>
+            </r>
+            <r>
+              <c>1-3 q: qqqqqqqqqqqq</c>
+            </r>
+            <r>
+              <c>6-15 l: qlllllllllllllghl</c>
+            </r>
+            <r>
+              <c>1-13 k: tkkkkkkkkkkklkk</c>
+            </r>
+            <r>
+              <c>8-12 k: kqkcqknklfkkvqp</c>
+            </r>
+            <r>
+              <c>15-16 f: hnjnmgfxdfrffdfff</c>
+            </r>
+            <r>
+              <c>3-11 k: ckkknpdlkkfkk</c>
+            </r>
+            <r>
+              <c>1-4 z: vzzz</c>
+            </r>
+            <r>
+              <c>4-7 c: gxgfcrcv</c>
+            </r>
+            <r>
+              <c>12-14 x: xxfxxxqxxxxxxq</c>
+            </r>
+            <r>
+              <c>4-19 g: gggwggggggggggggggxg</c>
+            </r>
+            <r>
+              <c>5-8 c: cdcqnmccxh</c>
+            </r>
+            <r>
+              <c>7-8 x: xxxxxxxcx</c>
+            </r>
+            <r>
+              <c>2-5 f: fmffjfff</c>
+            </r>
+            <r>
+              <c>2-3 w: wwbw</c>
+            </r>
+            <r>
+              <c>10-16 g: spbndcgjvnwbgcrvtg</c>
+            </r>
+            <r>
+              <c>4-5 t: ttttttt</c>
+            </r>
+            <r>
+              <c>6-10 d: dpdddddddl</c>
+            </r>
+            <r>
+              <c>1-4 s: ssszsss</c>
+            </r>
+            <r>
+              <c>8-12 f: ffffffffffffhfwffc</c>
+            </r>
+            <r>
+              <c>1-2 f: gmff</c>
+            </r>
+            <r>
+              <c>4-5 s: sssswss</c>
+            </r>
+            <r>
+              <c>12-17 v: vvvvjvvvfvvvvvvvvvv</c>
+            </r>
+            <r>
+              <c>3-5 n: tlndn</c>
+            </r>
+            <r>
+              <c>14-19 n: nnnnjjnnnnnnnwwlnnsn</c>
+            </r>
+            <r>
+              <c>17-18 d: dddcdddsdddddddddddd</c>
+            </r>
+            <r>
+              <c>5-17 x: zgsxphpttbdhqhxmxwms</c>
+            </r>
+            <r>
+              <c>1-3 f: ffffff</c>
+            </r>
+            <r>
+              <c>2-3 f: ffgf</c>
+            </r>
+            <r>
+              <c>8-11 r: dvrjxddrrgdrckrrxmp</c>
+            </r>
+            <r>
+              <c>9-12 n: nnrvnnnnxnhnnnnnnn</c>
+            </r>
+            <r>
+              <c>7-11 p: kxpsfsppppkplqxpmpfb</c>
+            </r>
+            <r>
+              <c>7-9 j: rjjjjjkjjjnj</c>
+            </r>
+            <r>
+              <c>3-4 g: lwng</c>
+            </r>
+            <r>
+              <c>9-10 h: lhzwfzlnhh</c>
+            </r>
+            <r>
+              <c>5-6 s: wlbdsfs</c>
+            </r>
+            <r>
+              <c>13-15 x: xgxqzxtpxgxqxjx</c>
+            </r>
+            <r>
+              <c>1-3 q: xqqq</c>
+            </r>
+            <r>
+              <c>15-17 d: ddfddtdddddhdfddddd</c>
+            </r>
+            <r>
+              <c>10-12 r: sgxrtkmwzrnrrgmscc</c>
+            </r>
+            <r>
+              <c>2-5 g: mggjg</c>
+            </r>
+            <r>
+              <c>7-9 t: trltttttt</c>
+            </r>
+            <r>
+              <c>7-13 b: bbbbbbqbbbbbgb</c>
+            </r>
+            <r>
+              <c>4-16 l: lllllllllllgllxjcll</c>
+            </r>
+            <r>
+              <c>14-15 v: vxvvvvtvvnvvwgv</c>
+            </r>
+            <r>
+              <c>8-9 m: xjmjklmfdnw</c>
+            </r>
+            <r>
+              <c>7-12 k: xhklkjhhwfrdkrlkkx</c>
+            </r>
+            <r>
+              <c>2-3 l: mlxfls</c>
+            </r>
+            <r>
+              <c>9-10 k: vhlgnkppkx</c>
+            </r>
+            <r>
+              <c>10-11 t: ttttktttttpt</c>
+            </r>
+            <r>
+              <c>1-3 q: qpkwvqb</c>
+            </r>
+            <r>
+              <c>6-7 k: kkvwjbkb</c>
+            </r>
+            <r>
+              <c>3-5 j: qpnmjjndh</c>
+            </r>
+            <r>
+              <c>8-12 z: zznzgzttvzzzzzg</c>
+            </r>
+            <r>
+              <c>8-11 n: wznmgnfnnfp</c>
+            </r>
+            <r>
+              <c>9-12 v: vvvvvvvvvvvvv</c>
+            </r>
+            <r>
+              <c>5-9 h: hhhhzhhhhhh</c>
+            </r>
+            <r>
+              <c>1-6 q: qsqqqdqqqqqqqq</c>
+            </r>
+            <r>
+              <c>2-5 c: cclfc</c>
+            </r>
+            <r>
+              <c>1-5 z: vwpzzzfzzzz</c>
+            </r>
+            <r>
+              <c>5-7 c: gcqcfcgzzcp</c>
+            </r>
+            <r>
+              <c>9-10 g: ggggggggszggggg</c>
+            </r>
+            <r>
+              <c>5-15 q: flqhqdqhqkqwcqqq</c>
+            </r>
+            <r>
+              <c>2-4 l: llpd</c>
+            </r>
+            <r>
+              <c>13-15 h: qbnzqnnfhchstbp</c>
+            </r>
+            <r>
+              <c>3-5 t: ttdttt</c>
+            </r>
+            <r>
+              <c>2-3 c: cccc</c>
+            </r>
+            <r>
+              <c>6-8 v: vvvvvdcvmv</c>
+            </r>
+            <r>
+              <c>6-7 n: bnnnnnn</c>
+            </r>
+            <r>
+              <c>10-16 t: tvztwtrbtttttqtt</c>
+            </r>
+            <r>
+              <c>2-5 m: zsvmmbbshz</c>
+            </r>
+            <r>
+              <c>3-13 f: xkfqfqrsmbjhj</c>
+            </r>
+            <r>
+              <c>3-5 c: cccjzjt</c>
+            </r>
+            <r>
+              <c>13-14 w: wwwwwwwwwwwwww</c>
+            </r>
+            <r>
+              <c>11-12 c: vcclpbccpqjgc</c>
+            </r>
+            <r>
+              <c>3-11 p: hqrlgpffspphvthb</c>
+            </r>
+            <r>
+              <c>3-12 z: zzjzzzzzzzzpz</c>
+            </r>
+            <r>
+              <c>3-10 s: ddqhwpqbxs</c>
+            </r>
+            <r>
+              <c>3-8 d: dddddddd</c>
+            </r>
+            <r>
+              <c>4-10 j: ktgsjzkqpjcjwcs</c>
+            </r>
+            <r>
+              <c>18-19 t: ttttdtttttttttttttf</c>
+            </r>
+            <r>
+              <c>6-11 s: jndthsskqbg</c>
+            </r>
+            <r>
+              <c>2-7 w: gpfhzwm</c>
+            </r>
+            <r>
+              <c>12-15 k: kkkkdkkkkkkckks</c>
+            </r>
+            <r>
+              <c>3-5 w: wdwnxw</c>
+            </r>
+            <r>
+              <c>2-4 w: wwtw</c>
+            </r>
+            <r>
+              <c>11-12 v: vvvvvvvvvvcfvv</c>
+            </r>
+            <r>
+              <c>12-15 h: wxlhgdxhhgttxhhnrgh</c>
+            </r>
+            <r>
+              <c>8-9 v: bptwkqvjxjdbhnzmbx</c>
+            </r>
+            <r>
+              <c>6-10 m: wrmmnqgmch</c>
+            </r>
+            <r>
+              <c>6-8 p: pppxcxprbcpppp</c>
+            </r>
+            <r>
+              <c>6-7 r: rrrrrkmrrrr</c>
+            </r>
+            <r>
+              <c>11-15 g: tpgkggggggvggfgtb</c>
+            </r>
+            <r>
+              <c>5-6 m: mmmmmmm</c>
+            </r>
+            <r>
+              <c>8-14 f: fkvwkmrfftmjczhf</c>
+            </r>
+            <r>
+              <c>12-13 q: rqqqqqqqqqqhqqqq</c>
+            </r>
+            <r>
+              <c>12-14 f: fffffffffffnffff</c>
+            </r>
+            <r>
+              <c>9-10 d: crsbdsddwdpddcpddd</c>
+            </r>
+            <r>
+              <c>1-4 b: gbjbx</c>
+            </r>
+            <r>
+              <c>2-3 n: nnnnnsnn</c>
+            </r>
+            <r>
+              <c>3-14 t: chtkhtdlddrztt</c>
+            </r>
+            <r>
+              <c>9-10 d: ldzdsdvxfmp</c>
+            </r>
+            <r>
+              <c>5-6 j: hrwjjj</c>
+            </r>
+            <r>
+              <c>1-4 l: lpllllblzll</c>
+            </r>
+            <r>
+              <c>10-12 l: glhnxlpdnlvq</c>
+            </r>
+            <r>
+              <c>5-6 q: jqzfqqt</c>
+            </r>
+            <r>
+              <c>3-11 z: npvzgdvpmnz</c>
+            </r>
+            <r>
+              <c>6-7 g: fgggrgg</c>
+            </r>
+            <r>
+              <c>4-10 f: xrtfnrcbgbkdf</c>
+            </r>
+            <r>
+              <c>1-14 f: ftvftwfxwmfmbftsd</c>
+            </r>
+            <r>
+              <c>3-6 s: scjsfcs</c>
+            </r>
+            <r>
+              <c>3-6 v: hvvvxvnvvvgtvgv</c>
+            </r>
+            <r>
+              <c>8-10 z: zzzzzzzzzszhfzzz</c>
+            </r>
+            <r>
+              <c>1-14 z: szzzwdzwzzqzzzz</c>
+            </r>
+            <r>
+              <c>8-14 f: wffhsjdfrslfpfnq</c>
+            </r>
+            <r>
+              <c>4-5 k: kckkkkkx</c>
+            </r>
+            <r>
+              <c>7-12 d: dddkkdkwddvhs</c>
+            </r>
+            <r>
+              <c>6-7 c: ckpmczj</c>
+            </r>
+            <r>
+              <c>1-15 h: hhjjhjhhhbhbhcckxh</c>
+            </r>
+            <r>
+              <c>2-4 n: xjhn</c>
+            </r>
+            <r>
+              <c>7-10 t: ttttttwttttttttttltt</c>
+            </r>
+            <r>
+              <c>1-5 v: vkbdvvgv</c>
+            </r>
+            <r>
+              <c>1-4 z: zzzlzzzzzzzzzzzz</c>
+            </r>
+            <r>
+              <c>3-5 f: fffffnc</c>
+            </r>
+            <r>
+              <c>1-2 c: pcfgl</c>
+            </r>
+            <r>
+              <c>8-12 m: mmmmmmmmrmmmm</c>
+            </r>
+            <r>
+              <c>10-14 l: lllllllllfvllblldlll</c>
+            </r>
+            <r>
+              <c>4-11 s: fwrbwnpttjpmnmsfnhs</c>
+            </r>
+            <r>
+              <c>9-11 m: zmmrrxcmsmmmqmgmmmmm</c>
+            </r>
+            <r>
+              <c>2-7 s: sqslsssj</c>
+            </r>
+            <r>
+              <c>18-19 p: ppppppppppmppdppwpz</c>
+            </r>
+            <r>
+              <c>6-8 k: qmfwhkkkd</c>
+            </r>
+            <r>
+              <c>7-8 v: vvvlsvhzgv</c>
+            </r>
+            <r>
+              <c>8-14 g: ggggggggggggggggg</c>
+            </r>
+            <r>
+              <c>3-4 r: rrrnr</c>
+            </r>
+            <r>
+              <c>7-8 m: kghmmmjm</c>
+            </r>
+            <r>
+              <c>3-5 g: ggtnbzggbxklprk</c>
+            </r>
+            <r>
+              <c>11-13 q: bqqqqqqqqqqfhqr</c>
+            </r>
+            <r>
+              <c>3-4 z: zzzz</c>
+            </r>
+            <r>
+              <c>17-18 b: bbbbbbbbbbbbbbbbsrb</c>
+            </r>
+            <r>
+              <c>2-4 f: wpff</c>
+            </r>
+            <r>
+              <c>5-6 z: zvrlwf</c>
+            </r>
+            <r>
+              <c>7-10 p: pppbdqwgwptpppp</c>
+            </r>
+            <r>
+              <c>2-12 v: vzvvvvvvvvvmv</c>
+            </r>
+            <r>
+              <c>3-11 f: fffqffffffcfff</c>
+            </r>
+            <r>
+              <c>7-10 v: vbsvvkgcwjxvdkvvv</c>
+            </r>
+            <r>
+              <c>18-19 l: lwmlllllllllvllfllll</c>
+            </r>
+            <r>
+              <c>13-17 s: gwssszsshssssstxs</c>
+            </r>
+            <r>
+              <c>2-3 k: kkdk</c>
+            </r>
+            <r>
+              <c>5-11 k: kkkkkkkkkkkkkkk</c>
+            </r>
+            <r>
+              <c>1-6 l: gllllll</c>
+            </r>
+            <r>
+              <c>1-5 c: jccccccccc</c>
+            </r>
+            <r>
+              <c>1-6 v: vdjvld</c>
+            </r>
+            <r>
+              <c>7-8 n: kjnknwnngnv</c>
+            </r>
+            <r>
+              <c>16-18 w: wwwwwwwwwwwkwtwwws</c>
+            </r>
+            <r>
+              <c>5-8 b: qbfjbcdg</c>
+            </r>
+            <r>
+              <c>13-14 d: ddddddddfdkdkddjd</c>
+            </r>
+            <r>
+              <c>7-8 w: nwwwcwwwkfwwjwwl</c>
+            </r>
+            <r>
+              <c>13-15 q: qqqqqqqqgqqqgqq</c>
+            </r>
+            <r>
+              <c>11-12 c: cmccjcqccknzcrcc</c>
+            </r>
+            <r>
+              <c>4-6 x: wvlnxbb</c>
+            </r>
+            <r>
+              <c>5-7 j: fmjffjj</c>
+            </r>
+            <r>
+              <c>3-5 q: xrqqnrhqjst</c>
+            </r>
+            <r>
+              <c>12-19 n: nnnqnnqnmbvnjnnqnnn</c>
+            </r>
+            <r>
+              <c>13-19 s: sqssvscdhssslsshwstt</c>
+            </r>
+            <r>
+              <c>15-17 k: kkkkkkkkkkhkkkcktkkj</c>
+            </r>
+            <r>
+              <c>3-5 s: cpsbs</c>
+            </r>
+            <r>
+              <c>10-12 b: bbbgbxhwsvbc</c>
+            </r>
+            <r>
+              <c>1-9 v: vjvdvdvlvkx</c>
+            </r>
+            <r>
+              <c>13-15 z: zzzzczzzzzzzgczzz</c>
+            </r>
+            <r>
+              <c>17-18 r: rrrrrrrrrrrrrrrrrr</c>
+            </r>
+            <r>
+              <c>3-8 z: tbmczfgz</c>
+            </r>
+            <r>
+              <c>9-11 h: dthhhhhhhhvhhhnhhh</c>
+            </r>
+            <r>
+              <c>11-13 l: qfzlnljldmllf</c>
+            </r>
+            <r>
+              <c>1-3 s: sscs</c>
+            </r>
+            <r>
+              <c>5-17 q: qfvrqphfjffckgmpj</c>
+            </r>
+            <r>
+              <c>2-6 f: rjfjvfgpf</c>
+            </r>
+            <r>
+              <c>5-6 h: hhghkh</c>
+            </r>
+            <r>
+              <c>12-17 s: ssssssssssssssssssrs</c>
+            </r>
+            <r>
+              <c>12-13 g: gggggggggggbl</c>
+            </r>
+            <r>
+              <c>12-13 m: mmmmmmmmmmmtcmmmm</c>
+            </r>
+            <r>
+              <c>16-17 x: rzcfxbdxxdstzdxmp</c>
+            </r>
+            <r>
+              <c>7-9 b: smbzgbbwzbzbb</c>
+            </r>
+            <r>
+              <c>11-13 f: ffskffvfgfflf</c>
+            </r>
+            <r>
+              <c>1-2 r: pmrwrmrbrrr</c>
+            </r>
+            <r>
+              <c>3-4 n: nnngnnnn</c>
+            </r>
+            <r>
+              <c>8-10 w: wcwwrptwwlcq</c>
+            </r>
+            <r>
+              <c>4-7 n: nnnpndn</c>
+            </r>
+            <r>
+              <c>1-4 l: lllpll</c>
+            </r>
+            <r>
+              <c>7-13 q: fqqfdqqqqxrlkq</c>
+            </r>
+            <r>
+              <c>6-7 f: fnrftkfffdf</c>
+            </r>
+            <r>
+              <c>8-10 s: cwtgnssstsmq</c>
+            </r>
+            <r>
+              <c>2-9 d: ddjkgsxkdsddgf</c>
+            </r>
+            <r>
+              <c>10-11 l: lwpjlpkzqlllltrln</c>
+            </r>
+            <r>
+              <c>4-20 n: sndnlnnnjpnncsjnrnnn</c>
+            </r>
+            <r>
+              <c>1-16 l: rltllllllllllllnllbl</c>
+            </r>
+            <r>
+              <c>15-19 w: gwtskpwwmnwnvmwrzmz</c>
+            </r>
+            <r>
+              <c>4-9 s: mxsssztlsslsmnbvwjdr</c>
+            </r>
+            <r>
+              <c>9-11 c: cccccdhcjckcccc</c>
+            </r>
+            <r>
+              <c>3-7 s: szsrrqjl</c>
+            </r>
+            <r>
+              <c>1-3 n: nnnnn</c>
+            </r>
+            <r>
+              <c>3-4 x: zcbj</c>
+            </r>
+            <r>
+              <c>16-18 s: sdsssssssssslsstsss</c>
+            </r>
+            <r>
+              <c>9-20 w: cnprwwnfdjlwqwswqwwz</c>
+            </r>
+            <r>
+              <c>16-17 v: vvvvvsvvvvvvvvvcvv</c>
+            </r>
+            <r>
+              <c>4-7 g: gxzgngg</c>
+            </r>
+            <r>
+              <c>5-6 s: sssssrs</c>
+            </r>
+            <r>
+              <c>11-13 q: qqqqqqqqqqjzq</c>
+            </r>
+            <r>
+              <c>8-10 x: xxxxxxxvxx</c>
+            </r>
+            <r>
+              <c>12-13 b: sbbbbbbbbbbbbbb</c>
+            </r>
+            <r>
+              <c>4-6 f: ffffff</c>
+            </r>
+            <r>
+              <c>7-8 d: ddtddddd</c>
+            </r>
+            <r>
+              <c>1-6 z: vzzzzzz</c>
+            </r>
+            <r>
+              <c>16-18 s: ssssssssssssssvssb</c>
+            </r>
+            <r>
+              <c>6-15 s: xbqsssxwsscsfbl</c>
+            </r>
+            <r>
+              <c>12-17 z: zzzzzzzzzzznzzzzvz</c>
+            </r>
+            <r>
+              <c>4-10 d: xwcdtdbpmtt</c>
+            </r>
+            <r>
+              <c>3-8 v: vjvjnxbw</c>
+            </r>
+            <r>
+              <c>4-11 q: fdflhjpvqmq</c>
+            </r>
+            <r>
+              <c>10-12 s: rqvjgslssssf</c>
+            </r>
+            <r>
+              <c>3-4 m: mmmmm</c>
+            </r>
+            <r>
+              <c>6-10 x: xxxxxxxxxxxx</c>
+            </r>
+            <r>
+              <c>4-5 g: ggggg</c>
+            </r>
+            <r>
+              <c>8-10 q: cwgbqqsxqgfqqz</c>
+            </r>
+            <r>
+              <c>9-19 l: lhzllnmlcgrbzrmzwln</c>
+            </r>
+            <r>
+              <c>5-14 x: xqqzxxnxxswwvxxxz</c>
+            </r>
+            <r>
+              <c>4-11 x: xxxlxxxxxxxx</c>
+            </r>
+            <r>
+              <c>13-17 d: ndrzwljrbcptswkfd</c>
+            </r>
+            <r>
+              <c>5-15 l: lnllhlllllllclpllll</c>
+            </r>
+            <r>
+              <c>1-2 s: cdsv</c>
+            </r>
+            <r>
+              <c>3-4 j: fpqj</c>
+            </r>
+            <r>
+              <c>4-7 r: rrrtrrxtr</c>
+            </r>
+            <r>
+              <c>9-11 h: hthhhhhhvkbhr</c>
+            </r>
+            <r>
+              <c>8-14 l: rllllllsllnlll</c>
+            </r>
+            <r>
+              <c>2-3 t: tvtt</c>
+            </r>
+            <r>
+              <c>8-18 h: hhhnhvhwhhhhphhhhwhl</c>
+            </r>
+            <r>
+              <c>1-3 d: ddmdd</c>
+            </r>
+            <r>
+              <c>14-18 q: nhqkrqdflknwbqvgph</c>
+            </r>
+            <r>
+              <c>3-4 z: zkzx</c>
+            </r>
+            <r>
+              <c>1-4 z: zfwgzzgrzcs</c>
+            </r>
+            <r>
+              <c>2-4 k: lkpxr</c>
+            </r>
+            <r>
+              <c>3-4 h: hhhhh</c>
+            </r>
+            <r>
+              <c>7-16 t: ltjttttftttttttdct</c>
+            </r>
+            <r>
+              <c>7-8 z: zlsxvwzxs</c>
+            </r>
+            <r>
+              <c>1-2 t: twtt</c>
+            </r>
+            <r>
+              <c>10-16 q: qqqqqqqqztqqqqwqqqqq</c>
+            </r>
+            <r>
+              <c>4-6 r: hgtrvrrfdwrgqw</c>
+            </r>
+            <r>
+              <c>3-6 z: bwzlzzzz</c>
+            </r>
+            <r>
+              <c>7-8 z: zzhzzcczqzzz</c>
+            </r>
+            <r>
+              <c>5-7 h: fjfhhphdc</c>
+            </r>
+            <r>
+              <c>13-16 p: tpnzmdbvwwpstpxprm</c>
+            </r>
+            <r>
+              <c>1-10 q: qqqdqqvqqfqqqqq</c>
+            </r>
+            <r>
+              <c>11-15 z: zzzmhtzzszbkzlz</c>
+            </r>
+            <r>
+              <c>2-4 x: hjhxkpmjwjkrsjdklzfc</c>
+            </r>
+            <r>
+              <c>1-2 m: kmgjnkwvfqxtmqc</c>
+            </r>
+            <r>
+              <c>9-10 j: kjlpjjjjxj</c>
+            </r>
+            <r>
+              <c>6-7 x: wxcxpxrxxx</c>
+            </r>
+            <r>
+              <c>17-18 k: kkkkkkkkkkkkkkkkkkk</c>
+            </r>
+            <r>
+              <c>5-7 d: pdddddd</c>
+            </r>
+            <r>
+              <c>2-4 p: pspp</c>
+            </r>
+            <r>
+              <c>2-11 n: nbnznnnnnnxnn</c>
+            </r>
+            <r>
+              <c>4-6 c: cxccdccgnf</c>
+            </r>
+            <r>
+              <c>13-14 c: cccccccccgdccccpf</c>
+            </r>
+            <r>
+              <c>1-3 q: qqrhsdcqqfbr</c>
+            </r>
+            <r>
+              <c>4-6 l: rqbrnjgmttlvbxjlrrh</c>
+            </r>
+            <r>
+              <c>15-18 k: kkkfkgkkkkkkkkckkz</c>
+            </r>
+            <r>
+              <c>13-15 r: rrrrrrrrrrrrrrrr</c>
+            </r>
+            <r>
+              <c>10-11 b: bbnbcrblhpb</c>
+            </r>
+            <r>
+              <c>2-7 z: znlzklzc</c>
+            </r>
+            <r>
+              <c>5-11 f: bfzcdfxmljrmnw</c>
+            </r>
+            <r>
+              <c>1-4 k: kkkkkckckkkk</c>
+            </r>
+            <r>
+              <c>3-4 w: wzww</c>
+            </r>
+            <r>
+              <c>2-4 l: vlllll</c>
+            </r>
+            <r>
+              <c>14-15 w: rzvrjrqgkcxhwwp</c>
+            </r>
+            <r>
+              <c>6-7 k: kkkkkldm</c>
+            </r>
+            <r>
+              <c>5-7 l: hbhllbn</c>
+            </r>
+            <r>
+              <c>8-11 x: xxxxxxxmxxxx</c>
+            </r>
+            <r>
+              <c>1-12 d: jddvddvddddqdddd</c>
+            </r>
+            <r>
+              <c>1-17 n: jnndrnnnsqnnwnnnmnnn</c>
+            </r>
+            <r>
+              <c>11-14 n: kgzqtdnqbbvmqj</c>
+            </r>
+            <r>
+              <c>2-3 d: hvkd</c>
+            </r>
+            <r>
+              <c>11-15 k: kkkdkkkkkkkkkwwk</c>
+            </r>
+            <r>
+              <c>4-5 v: vvvvk</c>
+            </r>
+            <r>
+              <c>2-3 x: bgbh</c>
+            </r>
+            <r>
+              <c>3-6 q: vqvmnp</c>
+            </r>
+            <r>
+              <c>1-4 n: nnnn</c>
+            </r>
+            <r>
+              <c>6-10 x: xxxxxxxxxhxlsxxx</c>
+            </r>
+            <r>
+              <c>1-16 x: xxdxxxxxxxxxxxxb</c>
+            </r>
+            <r>
+              <c>4-7 j: jnwdsjzr</c>
+            </r>
+            <r>
+              <c>5-6 g: bglmhg</c>
+            </r>
+            <r>
+              <c>2-4 p: pppp</c>
+            </r>
+            <r>
+              <c>7-17 h: hhhhhhfhhhhhhhhhfhh</c>
+            </r>
+            <r>
+              <c>8-16 h: hhxthhhhchqqhhhhh</c>
+            </r>
+            <r>
+              <c>3-6 k: kkkkkpkkkkrkk</c>
+            </r>
+            <r>
+              <c>3-4 z: gqzs</c>
+            </r>
+            <r>
+              <c>10-12 f: fffffffffzfsfffffff</c>
+            </r>
+            <r>
+              <c>9-11 f: fcgpwqfxnvf</c>
+            </r>
+            <r>
+              <c>8-10 j: jxjjjjjjjrjjnjbjzjj</c>
+            </r>
+            <r>
+              <c>6-7 h: bkttbhkzcmmnqs</c>
+            </r>
+            <r>
+              <c>1-13 w: kwwwwwwwwwwwnww</c>
+            </r>
+            <r>
+              <c>2-8 p: pspqpppzpjhp</c>
+            </r>
+            <r>
+              <c>1-13 n: nnnznnlnnnnfvnnnnnnn</c>
+            </r>
+            <r>
+              <c>2-3 n: nnqpnn</c>
+            </r>
+            <r>
+              <c>5-6 n: nmbdnn</c>
+            </r>
+            <r>
+              <c>13-15 d: jrdsdkddjvddsdsrh</c>
+            </r>
+            <r>
+              <c>6-9 n: ntnwnnknnncnnnnl</c>
+            </r>
+            <r>
+              <c>2-6 z: zzzzzznvz</c>
+            </r>
+            <r>
+              <c>9-13 c: ccccccccqcccw</c>
+            </r>
+            <r>
+              <c>5-7 x: qxxfxhmt</c>
+            </r>
+            <r>
+              <c>8-10 z: zzzzzzzltz</c>
+            </r>
+            <r>
+              <c>12-14 k: kkkkkkkkktkjknkkgd</c>
+            </r>
+            <r>
+              <c>6-9 z: jxjszgwzx</c>
+            </r>
+            <r>
+              <c>5-16 c: cccgscjpcccccccxd</c>
+            </r>
+            <r>
+              <c>6-7 g: lggjvgjghbtgggg</c>
+            </r>
+            <r>
+              <c>8-14 r: vtpbpwrcdqlrrfrrrrrs</c>
+            </r>
+            <r>
+              <c>6-14 w: twcwwnwwwqxwrwwmwf</c>
+            </r>
+            <r>
+              <c>3-6 s: mssbzssstgtmlw</c>
+            </r>
+            <r>
+              <c>1-12 m: mmwmmmmmmmmmmmmr</c>
+            </r>
+            <r>
+              <c>5-11 l: lclgllllclll</c>
+            </r>
+            <r>
+              <c>7-9 j: jjjjjjjjjj</c>
+            </r>
+            <r>
+              <c>2-14 n: wntdjqhtcqvnknjlfq</c>
+            </r>
+            <r>
+              <c>3-5 v: vvvvvn</c>
+            </r>
+            <r>
+              <c>7-8 p: hjcphnpm</c>
+            </r>
+            <r>
+              <c>2-7 w: wwwwwwswwwww</c>
+            </r>
+            <r>
+              <c>13-14 q: qqqqqqqqqqqqqqqq</c>
+            </r>
+            <r>
+              <c>4-5 d: kddmxcqqgzpddwddd</c>
+            </r>
+            <r>
+              <c>1-7 b: bfrhwgjtbchbzpcqmt</c>
+            </r>
+            <r>
+              <c>3-4 k: nkkk</c>
+            </r>
+            <r>
+              <c>6-7 q: qqsqqwqqq</c>
+            </r>
+            <r>
+              <c>1-10 g: gggggggggwgggg</c>
+            </r>
+            <r>
+              <c>1-4 k: kkkkkk</c>
+            </r>
+            <r>
+              <c>2-8 m: mtmmmmmnmmm</c>
+            </r>
+            <r>
+              <c>1-5 d: ldddd</c>
+            </r>
+            <r>
+              <c>5-8 s: szsssbqqsssssfsscsps</c>
+            </r>
+            <r>
+              <c>5-10 m: rljqkbcmbmxqsnbmzp</c>
+            </r>
+            <r>
+              <c>1-4 w: wfwwcrwnxxwwwdwh</c>
+            </r>
+            <r>
+              <c>9-12 v: wvqwvbvpsvvlvvvvvv</c>
+            </r>
+            <r>
+              <c>3-4 l: lljx</c>
+            </r>
+            <r>
+              <c>7-8 r: fzxvcbrmh</c>
+            </r>
+            <r>
+              <c>3-4 z: bvng</c>
+            </r>
+            <r>
+              <c>4-8 r: cskrnqrrjkvdtfv</c>
+            </r>
+            <r>
+              <c>13-14 q: qlqqxqqqqhqqqqqqm</c>
+            </r>
+            <r>
+              <c>14-20 n: zknbnnbnnznkhcnpnnzn</c>
+            </r>
+            <r>
+              <c>6-8 m: mmmmsmmn</c>
+            </r>
+            <r>
+              <c>8-15 x: xhxcxxxxfxhxwxt</c>
+            </r>
+            <r>
+              <c>11-12 b: wfmnwdltwjcb</c>
+            </r>
+            <r>
+              <c>3-13 t: rgjpbdbmdjhmx</c>
+            </r>
+            <r>
+              <c>1-2 x: hgrhrwxzwzdx</c>
+            </r>
+            <r>
+              <c>1-3 v: pvxvvdrvvv</c>
+            </r>
+            <r>
+              <c>3-13 q: qjqmvqkcbbqhqfqqq</c>
+            </r>
+            <r>
+              <c>4-8 h: vvzmthcpwrlnwhst</c>
+            </r>
+            <r>
+              <c>2-10 b: bphlmgjftzrwm</c>
+            </r>
+            <r>
+              <c>1-9 h: fhhhhhhhl</c>
+            </r>
+            <r>
+              <c>14-15 c: wrtccjwcccwvhcv</c>
+            </r>
+            <r>
+              <c>2-3 f: nftrf</c>
+            </r>
+            <r>
+              <c>1-8 l: ljcklkbllsb</c>
+            </r>
+            <r>
+              <c>1-7 w: zwwwbwwwwww</c>
+            </r>
+            <r>
+              <c>10-11 m: hkmfghpvhzm</c>
+            </r>
+            <r>
+              <c>8-19 r: szrrwmrrrbrrrrtrrhxl</c>
+            </r>
+            <r>
+              <c>3-4 j: jprp</c>
+            </r>
+            <r>
+              <c>4-10 h: hmbhqncmxft</c>
+            </r>
+            <r>
+              <c>8-12 d: dddddddtddddd</c>
+            </r>
+            <r>
+              <c>9-10 l: llllllllll</c>
+            </r>
+            <r>
+              <c>7-10 x: xxxnkxxxxxxxnxxxf</c>
+            </r>
+            <r>
+              <c>10-13 b: nbzzkzwjxbbwbgtsk</c>
+            </r>
+            <r>
+              <c>11-16 l: llllldllllllllwllll</c>
+            </r>
+            <r>
+              <c>4-5 d: ljzdlxwxmzxldwfwmqd</c>
+            </r>
+            <r>
+              <c>1-13 d: dgfddmwsghdsdnddd</c>
+            </r>
+            <r>
+              <c>15-16 j: bnfcxqjjjsdpznjprbjj</c>
+            </r>
+            <r>
+              <c>2-11 w: wlwwwwwwwwwwwwwwwww</c>
+            </r>
+            <r>
+              <c>5-8 z: zzlkzfzt</c>
+            </r>
+            <r>
+              <c>5-7 x: nqpjxxs</c>
+            </r>
+            <r>
+              <c>5-9 j: jgjjbjjjm</c>
+            </r>
+            <r>
+              <c>2-5 h: jvbhf</c>
+            </r>
+            <r>
+              <c>11-14 b: kqxfgwbbpnrjrjb</c>
+            </r>
+            <r>
+              <c>6-7 h: zjhhnhrr</c>
+            </r>
+            <r>
+              <c>2-7 c: crjcccgcc</c>
+            </r>
+            <r>
+              <c>4-5 z: gzczx</c>
+            </r>
+            <r>
+              <c>4-6 k: kkkrkkkxrtk</c>
+            </r>
+            <r>
+              <c>9-10 j: jjjjjjjjmj</c>
+            </r>
+            <r>
+              <c>8-12 b: bzdmbbbbbbcbdbmbdbh</c>
+            </r>
+            <r>
+              <c>2-6 t: wtjtptrptstx</c>
+            </r>
+            <r>
+              <c>1-11 w: wlmqwzkzmtwkd</c>
+            </r>
+            <r>
+              <c>11-12 h: khrbhmxhkbbh</c>
+            </r>
+            <r>
+              <c>10-18 x: sbttcdvmcxjxnjfjrkn</c>
+            </r>
+            <r>
+              <c>11-12 w: wwwsnwwwwcwz</c>
+            </r>
+            <r>
+              <c>5-18 g: zmgggvgmtrghhfwgbgjz</c>
+            </r>
+            <r>
+              <c>12-16 d: clxdsflvkpcsdmtqdwbd</c>
+            </r>
+            <r>
+              <c>15-17 p: ppppppppppspppxpzpp</c>
+            </r>
+            <r>
+              <c>4-5 k: kgrfk</c>
+            </r>
+            <r>
+              <c>2-4 l: lhfl</c>
+            </r>
+            <r>
+              <c>10-15 x: wdlvcxwtpjfflvzl</c>
+            </r>
+            <r>
+              <c>3-4 m: jwmmcjdxhkgbmtblmgfr</c>
+            </r>
+            <r>
+              <c>18-19 d: dqdjdqhddtdffddkmgd</c>
+            </r>
+            <r>
+              <c>5-9 h: hfngbhhchhkhkqmqgf</c>
+            </r>
+            <r>
+              <c>17-20 m: kmfmzrmmnmclsmthmfmt</c>
+            </r>
+            <r>
+              <c>7-12 p: ppppppppppphp</c>
+            </r>
+            <r>
+              <c>19-20 h: hhhhhhhhhhhhhxhjfghf</c>
+            </r>
+            <r>
+              <c>1-7 n: wkjsncn</c>
+            </r>
+            <r>
+              <c>1-6 x: xxxxxxxx</c>
+            </r>
+            <r>
+              <c>14-19 q: qwqgqqqqqrqqqqqqqqqq</c>
+            </r>
+            <r>
+              <c>7-16 n: nnnnnnzjnnmknnnqnnn</c>
+            </r>
+            <r>
+              <c>8-9 s: ssbssssbss</c>
+            </r>
+            <r>
+              <c>4-5 k: ckxvkhz</c>
+            </r>
+            <r>
+              <c>3-4 s: ssss</c>
+            </r>
+            <r>
+              <c>3-4 d: hwdsd</c>
+            </r>
+            <r>
+              <c>1-15 f: jfffffffffffffq</c>
+            </r>
+            <r>
+              <c>2-5 p: jppgpwwvhv</c>
+            </r>
+            <r>
+              <c>15-16 f: pllnmftdbzxhfkxf</c>
+            </r>
+            <r>
+              <c>5-10 w: vbwgswxwlwwwkwlw</c>
+            </r>
+            <r>
+              <c>1-2 g: glgg</c>
+            </r>
+            <r>
+              <c>10-15 c: cchccccclctcccdcc</c>
+            </r>
+            <r>
+              <c>4-5 r: rrgrrhmwrsrr</c>
+            </r>
+            <r>
+              <c>3-10 k: rwkcnwknkk</c>
+            </r>
+            <r>
+              <c>2-15 t: ttttttttttttttttt</c>
+            </r>
+            <r>
+              <c>11-12 l: lllllllllllql</c>
+            </r>
+            <r>
+              <c>4-6 m: jqdlzxvmv</c>
+            </r>
+            <r>
+              <c>10-12 l: lllwlmslllljflwll</c>
+            </r>
+            <r>
+              <c>1-2 s: mssss</c>
+            </r>
+            <r>
+              <c>3-7 h: plhgfjhchm</c>
+            </r>
+            <r>
+              <c>15-16 q: qqqqqqqqqqqjqqhsqqq</c>
+            </r>
+            <r>
+              <c>11-14 p: shpzpcmvscpccprdmmp</c>
+            </r>
+            <r>
+              <c>2-4 w: lgjn</c>
+            </r>
+            <r>
+              <c>5-7 q: vqkcstq</c>
+            </r>
+            <r>
+              <c>8-17 b: hbbbpbbtbbxbbbbjmb</c>
+            </r>
+            <r>
+              <c>8-15 b: bbbbbbbbbbbbbbr</c>
+            </r>
+            <r>
+              <c>14-16 s: sssjssssssssspsssss</c>
+            </r>
+            <r>
+              <c>9-13 w: wwwwwwkwkwwwxwww</c>
+            </r>
+            <r>
+              <c>4-7 k: xkkkkkwkkkkjkkkkk</c>
+            </r>
+            <r>
+              <c>4-6 m: bmvmnl</c>
+            </r>
+            <r>
+              <c>6-12 r: qrxvfrhcrtrrrm</c>
+            </r>
+            <r>
+              <c>2-8 t: rttwgtztkddbzbdd</c>
+            </r>
+            <r>
+              <c>1-4 x: sxbxxxd</c>
+            </r>
+            <r>
+              <c>1-2 b: bxqbqh</c>
+            </r>
+            <r>
+              <c>2-5 w: glmnxmlcmwkphwmxfk</c>
+            </r>
+            <r>
+              <c>12-13 n: nnhfnrnnsnfnnnmn</c>
+            </r>
+            <r>
+              <c>3-4 b: bqbbbbx</c>
+            </r>
+            <r>
+              <c>4-5 v: vvvgj</c>
+            </r>
+            <r>
+              <c>6-7 m: mmmmmsb</c>
+            </r>
+            <r>
+              <c>3-4 z: qqblwc</c>
+            </r>
+            <r>
+              <c>15-16 t: tttqdtttttttttmt</c>
+            </r>
+            <r>
+              <c>2-3 f: fffl</c>
+            </r>
+            <r>
+              <c>2-11 x: xpkxxxxbwrmxxvmx</c>
+            </r>
+            <r>
+              <c>11-15 p: lsxpjkwqjxqgwkpp</c>
+            </r>
+            <r>
+              <c>4-7 h: mvkszlvhkrfqpzfhdwbm</c>
+            </r>
+            <r>
+              <c>8-13 j: jjjjjjjjjjjjjjjjj</c>
+            </r>
+            <r>
+              <c>7-8 z: bdzzzzrz</c>
+            </r>
+            <r>
+              <c>3-6 v: vvvvvvv</c>
+            </r>
+            <r>
+              <c>10-12 f: ffxxffbfmnffffj</c>
+            </r>
+            <r>
+              <c>9-12 t: tjttwhtxtttttt</c>
+            </r>
+            <r>
+              <c>4-5 n: pdnnn</c>
+            </r>
+            <r>
+              <c>3-4 p: phprxnv</c>
+            </r>
+            <r>
+              <c>11-13 j: jjjjjjjjjjjjzj</c>
+            </r>
+            <r>
+              <c>7-10 g: ggggjgggdwggmgjvg</c>
+            </r>
+            <r>
+              <c>2-3 q: jxqqfqz</c>
+            </r>
+            <r>
+              <c>4-7 t: rghbdhgt</c>
+            </r>
+            <r>
+              <c>5-6 c: xrfcxcccctsp</c>
+            </r>
+            <r>
+              <c>2-4 j: ljpjspjbfkbmhzwbxmzc</c>
+            </r>
+            <r>
+              <c>7-8 s: ssssssvm</c>
+            </r>
+            <r>
+              <c>1-6 r: srrrrrwv</c>
+            </r>
+            <r>
+              <c>1-17 k: lkkkkkkkkkkkkzkkqkkk</c>
+            </r>
+            <r>
+              <c>10-13 j: xjjjhjjfjjjfljzmjbjm</c>
+            </r>
+            <r>
+              <c>8-9 q: qztvqqwqbv</c>
+            </r>
+            <r>
+              <c>3-4 v: vbvc</c>
+            </r>
+            <r>
+              <c>2-11 g: nwhdjzrvwxgngsh</c>
+            </r>
+            <r>
+              <c>8-13 k: kkztkkkxkkkgkclrrkk</c>
+            </r>
+            <r>
+              <c>9-10 n: tnnknzlsbnnn</c>
+            </r>
+            <r>
+              <c>5-6 v: vlvvpv</c>
+            </r>
+            <r>
+              <c>9-11 d: ddddddsddpvddddd</c>
+            </r>
+            <r>
+              <c>17-18 x: blxxxlkvxxpxftmjxxwp</c>
+            </r>
+            <r>
+              <c>6-9 z: zztzzkzzzh</c>
+            </r>
+            <r>
+              <c>3-5 j: sjkjq</c>
+            </r>
+            <r>
+              <c>4-11 k: kkkdkkvkkkkkkck</c>
+            </r>
+            <r>
+              <c>5-7 n: nnnnvsjn</c>
+            </r>
+            <r>
+              <c>5-7 k: kkkknkk</c>
+            </r>
+            <r>
+              <c>7-10 m: qdbmmmmtrvxggmmqlss</c>
+            </r>
+            <r>
+              <c>10-12 t: tttttttttrtvttttt</c>
+            </r>
+            <r>
+              <c>3-6 l: lsljmcgv</c>
+            </r>
+            <r>
+              <c>8-10 j: tjhnmwrjrtjmj</c>
+            </r>
+            <r>
+              <c>15-16 l: cllllrhwllzlnlll</c>
+            </r>
+            <r>
+              <c>12-14 m: mmmmmmmmmmmlmqm</c>
+            </r>
+            <r>
+              <c>3-4 m: mmrmmmmmm</c>
+            </r>
+            <r>
+              <c>2-6 p: psglpp</c>
+            </r>
+            <r>
+              <c>1-3 f: ffwwffffzf</c>
+            </r>
+            <r>
+              <c>3-4 z: zjzz</c>
+            </r>
+            <r>
+              <c>13-14 m: bzmmpmvclmzkmf</c>
+            </r>
+            <r>
+              <c>1-2 s: sssp</c>
+            </r>
+            <r>
+              <c>12-15 q: qqqqqqqqqqqgqqhqq</c>
+            </r>
+            <r>
+              <c>6-8 q: qhldnvqb</c>
+            </r>
+            <r>
+              <c>1-4 n: nnnn</c>
+            </r>
+            <r>
+              <c>9-10 t: rgzqzlndrtlzzdbtcrxh</c>
+            </r>
+            <r>
+              <c>15-16 w: wwwwwwwwwwwwwwwwww</c>
+            </r>
+            <r>
+              <c>2-4 h: hghhf</c>
+            </r>
+            <r>
+              <c>1-3 x: twhx</c>
+            </r>
+            <r>
+              <c>13-15 l: zhlsnvjllxqlqdq</c>
+            </r>
+            <r>
+              <c>1-3 b: jbzbjrfbjfrgsml</c>
+            </r>
+            <r>
+              <c>2-12 t: znskzrlnbjktpftd</c>
+            </r>
+            <r>
+              <c>3-12 b: grbvbwjbbsbgbpb</c>
+            </r>
+            <r>
+              <c>6-18 t: tttttztttttttttttttt</c>
+            </r>
+            <r>
+              <c>9-11 j: jjjsjjhjjqjjjrjnl</c>
+            </r>
+            <r>
+              <c>1-16 w: tgrwwwwwwwwwfkww</c>
+            </r>
+            <r>
+              <c>1-5 d: ddfdqdd</c>
+            </r>
+            <r>
+              <c>8-18 w: wwwwwwwwwwwwwwwwwww</c>
+            </r>
+            <r>
+              <c>5-16 s: rvlmcczcgbxbtxxqxm</c>
+            </r>
+            <r>
+              <c>1-4 z: zzqznzwtkg</c>
+            </r>
+            <r>
+              <c>2-6 j: zqpcvv</c>
+            </r>
+            <r>
+              <c>6-7 t: zttmtth</c>
+            </r>
+            <r>
+              <c>3-5 g: gggggg</c>
+            </r>
+            <r>
+              <c>8-9 j: jjjjjjjpjjjjjjjjj</c>
+            </r>
+            <r>
+              <c>11-19 k: ndlbdtjkdhgfrrvmtrk</c>
+            </r>
+            <r>
+              <c>5-6 s: ssnssss</c>
+            </r>
+            <r>
+              <c>6-7 f: zgzfqfg</c>
+            </r>
+            <r>
+              <c>16-18 k: kkkkkdzckbjmcjdfkkk</c>
+            </r>
+            <r>
+              <c>1-7 c: cccchmv</c>
+            </r>
+            <r>
+              <c>6-8 h: hkhhhhhhhhw</c>
+            </r>
+            <r>
+              <c>3-4 m: mmgm</c>
+            </r>
+            <r>
+              <c>3-4 j: jwjwj</c>
+            </r>
+            <r>
+              <c>1-2 t: jtttz</c>
+            </r>
+            <r>
+              <c>3-5 n: nnnns</c>
+            </r>
+            <r>
+              <c>2-9 l: wdpwdpcqlkrrt</c>
+            </r>
+            <r>
+              <c>6-11 d: ddddddddddpdsv</c>
+            </r>
+            <r>
+              <c>9-11 v: vvhqvpnvglvvvxv</c>
+            </r>
+            <r>
+              <c>3-8 v: dlvvkvmk</c>
+            </r>
+            <r>
+              <c>8-11 f: fmdfmcffsfdng</c>
+            </r>
+            <r>
+              <c>9-10 q: tqqqjqqqgqqqq</c>
+            </r>
+            <r>
+              <c>3-17 m: mzmxdgwfrgjjkrbjmvv</c>
+            </r>
+            <r>
+              <c>2-4 d: xwtdpd</c>
+            </r>
+            <r>
+              <c>10-11 v: vvvvvvvvvvn</c>
+            </r>
+            <r>
+              <c>6-8 l: fxcllfhl</c>
+            </r>
+            <r>
+              <c>17-18 n: nnnnnnnnnnnnnnnnjz</c>
+            </r>
+            <r>
+              <c>1-2 n: lnnsn</c>
+            </r>
+            <r>
+              <c>2-3 v: vvlj</c>
+            </r>
+            <r>
+              <c>11-12 s: ssssvssshsvc</c>
+            </r>
+            <r>
+              <c>7-8 n: njnnnnssn</c>
+            </r>
+            <r>
+              <c>1-8 h: hhhhhhhhthh</c>
+            </r>
+            <r>
+              <c>11-12 j: jfjjjjbbgjjj</c>
+            </r>
+            <r>
+              <c>5-7 n: cltwnfn</c>
+            </r>
+            <r>
+              <c>4-9 c: wgcccmxxr</c>
+            </r>
+            <r>
+              <c>10-13 n: xnnnszfnndhcnmnzc</c>
+            </r>
+            <r>
+              <c>7-8 n: nnnrnnrkqzn</c>
+            </r>
+            <r>
+              <c>7-10 f: ffffffbffff</c>
+            </r>
+            <r>
+              <c>2-16 z: zzzzzzzzzzzzzzzrz</c>
+            </r>
+            <r>
+              <c>13-14 q: qqqqqqqqqqqqnb</c>
+            </r>
+            <r>
+              <c>4-9 q: qcqkvlqgqdqnq</c>
+            </r>
+            <r>
+              <c>11-17 l: ppvjfgvhnxvzpdphlcxg</c>
+            </r>
+            <r>
+              <c>4-5 j: qjqpmjpj</c>
+            </r>
+            <r>
+              <c>3-4 n: mnqq</c>
+            </r>
+            <r>
+              <c>4-7 w: wwwbwww</c>
+            </r>
+            <r>
+              <c>3-9 n: mbpgnnfzn</c>
+            </r>
+            <r>
+              <c>10-13 j: jjwjjhjjjwjjj</c>
+            </r>
+            <r>
+              <c>2-6 f: zcdrsgqszfn</c>
+            </r>
+            <r>
+              <c>1-7 x: xmzkwtx</c>
+            </r>
+            <r>
+              <c>1-5 q: jzfqgdqrsqqqqgq</c>
+            </r>
+            <r>
+              <c>4-17 p: npvpppcljpcgjfbhpppp</c>
+            </r>
+            <r>
+              <c>5-11 g: grgggfggggggg</c>
+            </r>
+            <r>
+              <c>8-12 n: hdcnbplfnnmn</c>
+            </r>
+            <r>
+              <c>2-4 j: jnfw</c>
+            </r>
+            <r>
+              <c>13-14 d: mfgvkdrkzggddd</c>
+            </r>
+            <r>
+              <c>5-7 k: kkkkfkpkk</c>
+            </r>
+            <r>
+              <c>7-9 q: tqqrgqqjwqfpg</c>
+            </r>
+            <r>
+              <c>1-2 g: rdgxg</c>
+            </r>
+            <r>
+              <c>18-19 w: wwwwwwwwwswwwwwwwwz</c>
+            </r>
+            <r>
+              <c>8-12 q: qqqqcqzkvdqqqqspqf</c>
+            </r>
+            <r>
+              <c>12-16 p: xfzcfvpdrpnlpppmpq</c>
+            </r>
+            <r>
+              <c>4-5 q: qdqkb</c>
+            </r>
+            <r>
+              <c>6-12 p: glpppnpsppppppgnpp</c>
+            </r>
+            <r>
+              <c>1-18 g: ggggggggggggggggggg</c>
+            </r>
+            <r>
+              <c>1-7 h: hfhwsjxmnhd</c>
+            </r>
+            <r>
+              <c>1-8 h: hhjhphhchhhdh</c>
+            </r>
+            <r>
+              <c>8-11 z: zzzzkzzzzcr</c>
+            </r>
+            <r>
+              <c>13-18 w: qwhwvxwwbtdwlqwwww</c>
+            </r>
+            <r>
+              <c>4-11 n: nntnsnnngnnknnnptpn</c>
+            </r>
+            <r>
+              <c>1-8 c: cmccflmjccc</c>
+            </r>
+            <r>
+              <c>12-14 d: qgdrdhjddddddd</c>
+            </r>
+            <r>
+              <c>1-10 r: xrbmrrrwbcrrr</c>
+            </r>
+            <r>
+              <c>4-8 t: pjsfzxsst</c>
+            </r>
+            <r>
+              <c>3-6 h: hhfhdhl</c>
+            </r>
+            <r>
+              <c>5-6 m: mmmmmmmmmmm</c>
+            </r>
+            <r>
+              <c>8-9 c: jfrkcrrrccqcqsh</c>
+            </r>
+            <r>
+              <c>8-9 w: wwwwwwwbww</c>
+            </r>
+            <r>
+              <c>3-6 w: tvwpkvwwgwwqlcwzg</c>
+            </r>
+            <r>
+              <c>11-13 n: qnvnknfnccnngnnn</c>
+            </r>
+            <r>
+              <c>11-17 q: qqqqqqqqqqqqqqqqlq</c>
+            </r>
+            <r>
+              <c>5-9 k: whkkkkkkmmkkclkfjl</c>
+            </r>
+            <r>
+              <c>8-13 d: dddddddcdddddd</c>
+            </r>
+            <r>
+              <c>6-7 c: cckccckcc</c>
+            </r>
+            <r>
+              <c>6-9 n: nnnnkvnzn</c>
+            </r>
+            <r>
+              <c>2-10 x: fxdtdbbfpxfcdd</c>
+            </r>
+            <r>
+              <c>3-9 r: rrrxrrrrrrrlrrjr</c>
+            </r>
+            <r>
+              <c>3-10 d: ddgkdqdrfwdd</c>
+            </r>
+            <r>
+              <c>3-12 p: pppqpppphcppp</c>
+            </r>
+            <r>
+              <c>10-12 r: frrrrrwrrlrrrrrf</c>
+            </r>
+            <r>
+              <c>14-19 x: vxxzxqtxjgpxxxxvjxxx</c>
+            </r>
+            <r>
+              <c>1-12 v: vvvvvvvvvvvrvvv</c>
+            </r>
+            <r>
+              <c>11-13 c: cccccccccchmcccc</c>
+            </r>
+            <r>
+              <c>4-10 t: tmbpgnmtwksfwcmttbwt</c>
+            </r>
+            <r>
+              <c>3-5 c: mdcncrcj</c>
+            </r>
+            <r>
+              <c>9-10 f: ffffgsfqfmf</c>
+            </r>
+            <r>
+              <c>8-9 t: dzpdqtttqtptltttm</c>
+            </r>
+            <r>
+              <c>8-9 h: wwpqhshhhbv</c>
+            </r>
+            <r>
+              <c>12-17 s: sssssmsztqtbspssds</c>
+            </r>
+            <r>
+              <c>11-13 n: pnndnbnnvwznnnxsnnnn</c>
+            </r>
+            <r>
+              <c>6-10 n: nmxsvjlfnd</c>
+            </r>
+            <r>
+              <c>2-7 h: thlghzhf</c>
+            </r>
+            <r>
+              <c>6-9 s: rshshxpvlstdsd</c>
+            </r>
+            <r>
+              <c>16-17 c: ccccccbcccphccvcqc</c>
+            </r>
+            <r>
+              <c>6-11 q: jqqqqwsbqxqq</c>
+            </r>
+            <r>
+              <c>7-9 b: bbfjbbcbmsbvpglbh</c>
+            </r>
+            <r>
+              <c>1-11 m: mmmmmmmmmmmmmmm</c>
+            </r>
+            <r>
+              <c>15-17 x: xxxxxxxxxxxxxxxxvx</c>
+            </r>
+            <r>
+              <c>9-11 l: lllsldlllllljp</c>
+            </r>
+            <r>
+              <c>3-5 g: jgjnq</c>
+            </r>
+            <r>
+              <c>2-3 w: wgwz</c>
+            </r>
+            <r>
+              <c>4-5 h: jhfdpqqhsh</c>
+            </r>
+            <r>
+              <c>1-4 s: hrfxfxlx</c>
+            </r>
+            <r>
+              <c>3-5 r: kxrnsr</c>
+            </r>
+            <r>
+              <c>3-10 p: fpjppptppvpppp</c>
+            </r>
+            <r>
+              <c>5-12 m: dmclmfrmgbhlms</c>
+            </r>
+            <r>
+              <c>4-6 g: kdmmtgnxrgmgxggwmfd</c>
+            </r>
+            <r>
+              <c>4-10 f: xfshwrfrvx</c>
+            </r>
+            <r>
+              <c>1-3 v: dvmznrksd</c>
+            </r>
+            <r>
+              <c>7-18 n: xnsnnnnngnsnqjglwln</c>
+            </r>
+            <r>
+              <c>6-10 f: lffftlmfbfp</c>
+            </r>
+            <r>
+              <c>7-8 t: twjmbttjthpt</c>
+            </r>
+            <r>
+              <c>4-6 j: gjjltn</c>
+            </r>
+            <r>
+              <c>4-5 c: vfflxckkdh</c>
+            </r>
+            <r>
+              <c>10-15 b: kwcwcjtlsbbtfvbldglk</c>
+            </r>
+            <r>
+              <c>7-13 d: ddddddqddxddddd</c>
+            </r>
+            <r>
+              <c>1-4 w: wwwmw</c>
+            </r>
+            <r>
+              <c>4-8 d: lvddtrwzt</c>
+            </r>
+            <r>
+              <c>4-9 t: ttttztttt</c>
+            </r>
+            <r>
+              <c>5-6 k: kkrpkkkqtkffkwkk</c>
+            </r>
+            <r>
+              <c>1-3 f: kqfxxfb</c>
+            </r>
+            <r>
+              <c>3-6 g: ksgqlggb</c>
+            </r>
+            <r>
+              <c>11-12 f: ffffffdrffzf</c>
+            </r>
+            <r>
+              <c>10-11 b: jbbbbbbbbbbbb</c>
+            </r>
+            <r>
+              <c>16-17 s: sssssdssssssssskn</c>
+            </r>
+            <r>
+              <c>17-18 d: dmddddddddddddddrzdd</c>
+            </r>
+            <r>
+              <c>1-12 j: jvjjjqjcjtjj</c>
+            </r>
+            <r>
+              <c>2-4 b: npbbbkx</c>
+            </r>
+            <r>
+              <c>4-14 n: tnntfngpnbknnnnnrn</c>
+            </r>
+            <r>
+              <c>4-13 n: mnfsnnnnnnnnznn</c>
+            </r>
+            <r>
+              <c>6-10 s: sssssnssszsvs</c>
+            </r>
+            <r>
+              <c>8-9 m: mmxzpmhjj</c>
+            </r>
+            <r>
+              <c>2-4 k: pkgf</c>
+            </r>
+            <r>
+              <c>2-7 k: nkbtszkfzp</c>
+            </r>
+            <r>
+              <c>11-12 f: nxpbhffpzrff</c>
+            </r>
+            <r>
+              <c>5-14 x: czhvltwfxbxzsxzjtwxx</c>
+            </r>
+            <r>
+              <c>16-19 r: rrrrrrrrrrrrrrrrrrwr</c>
+            </r>
+            <r>
+              <c>2-4 m: mmmmvm</c>
+            </r>
+            <r>
+              <c>4-5 r: qrdrw</c>
+            </r>
+            <r>
+              <c>13-14 b: bbbhbbbbckbbpb</c>
+            </r>
+            <r>
+              <c>5-7 j: nwppmqkjxhtjf</c>
+            </r>
+            <r>
+              <c>8-11 z: zzwfwzbszzxzg</c>
+            </r>
+            <r>
+              <c>3-11 x: bxlfxjqxxgbwxxzcx</c>
+            </r>
+            <r>
+              <c>5-7 x: xxxxpxq</c>
+            </r>
+            <r>
+              <c>1-4 s: sssss</c>
+            </r>
+            <r>
+              <c>2-3 r: rvrr</c>
+            </r>
+            <r>
+              <c>6-7 b: bbbblkbzbbbnbbbbbj</c>
+            </r>
+            <r>
+              <c>1-3 g: gxgv</c>
+            </r>
+            <r>
+              <c>13-15 w: wwwwwwwwwwwwxwhww</c>
+            </r>
+            <r>
+              <c>3-4 c: rccc</c>
+            </r>
+            <r>
+              <c>4-15 p: cflwnhwfvntlxppmbg</c>
+            </r>
+            <r>
+              <c>7-12 m: xhmpvvmmmxhm</c>
+            </r>
+            <r>
+              <c>8-11 w: wmwwlwwcwdw</c>
+            </r>
+            <r>
+              <c>8-10 f: ghfcwzfffkfp</c>
+            </r>
+            <r>
+              <c>7-8 f: ffqcmdfww</c>
+            </r>
+            <r>
+              <c>3-4 z: qzjz</c>
+            </r>
+            <r>
+              <c>4-5 k: kkbqk</c>
+            </r>
+            <r>
+              <c>1-2 x: xqxczjtkfjt</c>
+            </r>
+            <r>
+              <c>2-17 h: hxhhhhhhhhhhhhhhhhhh</c>
+            </r>
+            <r>
+              <c>2-5 r: rrrmclqkcvkztr</c>
+            </r>
+            <r>
+              <c>10-13 q: fqgqqrgdxqfqq</c>
+            </r>
+            <r>
+              <c>8-9 j: jjjjjjdhjjj</c>
+            </r>
+            <r>
+              <c>6-7 q: sqqqhqvn</c>
+            </r>
+            <r>
+              <c>3-4 r: rrxw</c>
+            </r>
+            <r>
+              <c>13-15 j: jjjjjjjpjjjjjjx</c>
+            </r>
+            <r>
+              <c>4-6 v: rpvvvvrcfvqgfmsj</c>
+            </r>
+            <r>
+              <c>12-18 z: zzzzzzzzzdzjzzzdzn</c>
+            </r>
+            <r>
+              <c>8-10 n: ncnnnnmnnbhw</c>
+            </r>
+            <r>
+              <c>11-13 v: vvvvvvvvvvvvv</c>
+            </r>
+            <r>
+              <c>4-8 p: pdtpxpzw</c>
+            </r>
+            <r>
+              <c>5-10 z: zzqwxzmmfr</c>
+            </r>
+            <r>
+              <c>2-4 n: nknnn</c>
+            </r>
+            <r>
+              <c>3-4 c: dchb</c>
+            </r>
+            <r>
+              <c>10-17 h: lrpvfmmpwhgqphjphhhv</c>
+            </r>
+            <r>
+              <c>5-8 v: vrvmvvvnmvv</c>
+            </r>
+            <r>
+              <c>10-11 z: zzhzzzzzzzp</c>
+            </r>
+            <r>
+              <c>2-4 p: ppfpfp</c>
+            </r>
+            <r>
+              <c>4-7 z: zzzzzzjz</c>
+            </r>
+            <r>
+              <c>9-12 j: jjbwxjjjfjjwzmjc</c>
+            </r>
+            <r>
+              <c>12-17 f: fffffffffffdffffffff</c>
+            </r>
+            <r>
+              <c>5-7 t: dtlttvh</c>
+            </r>
+            <r>
+              <c>3-4 c: cmmnccv</c>
+            </r>
+            <r>
+              <c>1-8 j: tcjrqxjjk</c>
+            </r>
+            <r>
+              <c>10-14 h: vhhchthrhhhhhvhqhp</c>
+            </r>
+            <r>
+              <c>4-11 c: njrqmwpznxqtcc</c>
+            </r>
+            <r>
+              <c>1-15 g: xgdpwcqghrglgcgtggg</c>
+            </r>
+            <r>
+              <c>2-7 n: nkngnrnnqt</c>
+            </r>
+            <r>
+              <c>9-15 x: xxxxxsrxnxxfxxxxxxx</c>
+            </r>
+            <r>
+              <c>3-4 s: dsmf</c>
+            </r>
+            <r>
+              <c>4-5 r: rrrrcr</c>
+            </r>
+            <r>
+              <c>10-13 q: mqqqkqqqqzqqg</c>
+            </r>
+            <r>
+              <c>1-2 m: grtml</c>
+            </r>
+            <r>
+              <c>6-15 m: mmmmmfxmmftmmqm</c>
+            </r>
+            <r>
+              <c>15-18 g: ggjghfggvwgnhdggtb</c>
+            </r>
+            <r>
+              <c>1-5 k: ckkkfkqckqzk</c>
+            </r>
+            <r>
+              <c>4-5 h: kdllpjbn</c>
+            </r>
+            <r>
+              <c>2-4 b: jbgbf</c>
+            </r>
+            <r>
+              <c>5-8 v: vcvvqvvnhsz</c>
+            </r>
+            <r>
+              <c>8-9 m: fmmjmmmtm</c>
+            </r>
+            <r>
+              <c>4-6 l: lvhxdl</c>
+            </r>
+            <r>
+              <c>1-7 j: wjjjjjj</c>
+            </r>
+            <r>
+              <c>1-12 k: kkkkkkkkfkkpkkkkkj</c>
+            </r>
+            <r>
+              <c>3-5 r: rrrrr</c>
+            </r>
+            <r>
+              <c>3-4 x: vsqg</c>
+            </r>
+            <r>
+              <c>3-5 m: bszmmmcmnbdmhx</c>
+            </r>
+            <r>
+              <c>5-7 j: jjhfjjjk</c>
+            </r>
+            <r>
+              <c>9-12 v: nshvfvvwxvqv</c>
+            </r>
+            <r>
+              <c>10-15 v: dnthqhrpvsbznqdllwmg</c>
+            </r>
+            <r>
+              <c>8-9 g: jkgfzjgbcch</c>
+            </r>
+            <r>
+              <c>3-4 q: qqqw</c>
+            </r>
+            <r>
+              <c>2-3 m: mrcmmm</c>
+            </r>
+            <r>
+              <c>5-11 z: wzqzztfwzrz</c>
+            </r>
+            <r>
+              <c>1-4 p: zppf</c>
+            </r>
+            <r>
+              <c>3-4 l: dcvq</c>
+            </r>
+            <r>
+              <c>2-6 n: ngnnnnn</c>
+            </r>
+            <r>
+              <c>6-7 z: zczzznz</c>
+            </r>
+            <r>
+              <c>2-3 k: kglkkkjk</c>
+            </r>
+            <r>
+              <c>5-7 v: vvvgsbtfwk</c>
+            </r>
+            <r>
+              <c>2-12 q: qkgbwqjzqqqfqqqqqqqq</c>
+            </r>
+            <r>
+              <c>2-4 f: fpcq</c>
+            </r>
+            <r>
+              <c>17-18 b: bxtmblftbfbgbxbfdb</c>
+            </r>
+            <r>
+              <c>4-5 q: gqqjjz</c>
+            </r>
+            <r>
+              <c>10-11 l: llqllllllgl</c>
+            </r>
+            <r>
+              <c>2-4 r: jjrn</c>
+            </r>
+            <r>
+              <c>3-17 p: wfplgttzpngcvfzppw</c>
+            </r>
+            <r>
+              <c>2-3 v: vvmvt</c>
+            </r>
+            <r>
+              <c>10-17 k: kkkkkkktkxkkkkkkjkkk</c>
+            </r>
+            <r>
+              <c>8-9 z: pzdbjgbpzrxhhzc</c>
+            </r>
+            <r>
+              <c>3-12 z: blzpzxcqhvrsnvgml</c>
+            </r>
+            <r>
+              <c>14-15 q: qcffbpwbfqgxsqtrf</c>
+            </r>
+            <r>
+              <c>4-9 m: tthmftsxwrrmxx</c>
+            </r>
+            <r>
+              <c>2-3 r: zrrrr</c>
+            </r>
+            <r>
+              <c>7-14 l: blvhllgflllhcp</c>
+            </r>
+            <r>
+              <c>3-18 x: lplsnpshxmhsgmqdnr</c>
+            </r>
+            <r>
+              <c>12-15 f: rffdjffxfmffcfkff</c>
+            </r>
+            <r>
+              <c>11-12 q: qqqqqqqqqqqxq</c>
+            </r>
+            <r>
+              <c>7-9 b: bhbzrjfbvbbmgbbpkb</c>
+            </r>
+            <r>
+              <c>1-2 p: pppp</c>
+            </r>
+            <r>
+              <c>11-15 g: gtzgrghgwqgpqglx</c>
+            </r>
+            <r>
+              <c>1-7 t: tpttkxtptkgh</c>
+            </r>
+            <r>
+              <c>1-5 k: kkkkx</c>
+            </r>
+            <r>
+              <c>10-16 w: rthbwwqvcwggwpds</c>
+            </r>
+            <r>
+              <c>10-12 g: rpxxnxptslrgrpktg</c>
+            </r>
+            <r>
+              <c>5-8 h: hhhhhhhhhh</c>
+            </r>
+            <r>
+              <c>2-4 t: lthtsgbs</c>
+            </r>
+            <r>
+              <c>11-17 z: zzzzzzzzzzfzztzzzz</c>
+            </r>
+            <r>
+              <c>3-14 t: jttzstslpnvfftwmqqlq</c>
+            </r>
+            <r>
+              <c>4-10 l: tstfqpvlcl</c>
+            </r>
+            <r>
+              <c>6-16 t: cdtvtttrttwhmtvt</c>
+            </r>
+            <r>
+              <c>4-7 b: lbbwbbm</c>
+            </r>
+            <r>
+              <c>3-9 z: zrqbqzkdz</c>
+            </r>
+            <r>
+              <c>4-5 f: zlfsfzfgfzffpffff</c>
+            </r>
+            <r>
+              <c>1-4 m: jhmr</c>
+            </r>
+            <r>
+              <c>2-3 n: nnnvnnn</c>
+            </r>
+            <r>
+              <c>3-5 k: ktkjk</c>
+            </r>
+            <r>
+              <c>14-15 z: zzzzzzzzzzzzzzfn</c>
+            </r>
+            <r>
+              <c>12-13 m: mmmmmmmmmmmpmmm</c>
+            </r>
+            <r>
+              <c>3-4 s: spmssqbmnl</c>
+            </r>
+            <r>
+              <c>1-3 g: sgggggggfg</c>
+            </r>
+            <r>
+              <c>5-6 n: hnwnnd</c>
+            </r>
+            <r>
+              <c>7-11 r: rrrcrrvrrrrrrrrr</c>
+            </r>
+            <r>
+              <c>11-12 s: ssssssssssmw</c>
+            </r>
+            <r>
+              <c>2-4 n: rnvv</c>
+            </r>
+            <r>
+              <c>4-10 l: lmhplmllvdlnblmd</c>
+            </r>
+            <r>
+              <c>2-12 q: rbqwfbbqmsqfqfqqq</c>
+            </r>
+            <r>
+              <c>16-17 q: zqqqqqqqqqqqqqqnqq</c>
+            </r>
+            <r>
+              <c>18-19 p: dspfknrkgfxjdxvflbp</c>
+            </r>
+            <r>
+              <c>2-5 b: bbldb</c>
+            </r>
+            <r>
+              <c>3-4 k: kkfk</c>
+            </r>
+            <r>
+              <c>2-13 f: wfjhbcfrjfwxs</c>
+            </r>
+            <r>
+              <c>11-15 r: rrjrrrrrrrrrrrvrrrr</c>
+            </r>
+            <r>
+              <c>9-10 f: fffffffffhf</c>
+            </r>
+            <r>
+              <c>13-16 j: hsjjbjjpvvjsjrjsjz</c>
+            </r>
+            <r>
+              <c>6-8 l: ghlllffll</c>
+            </r>
+            <r>
+              <c>15-16 m: mvtxqmkfmfmbmvndm</c>
+            </r>
+            <r>
+              <c>4-5 h: zhhhhhh</c>
+            </r>
+            <r>
+              <c>3-4 x: mfzfnpcwxjxkhrrsszfc</c>
+            </r>
+            <r>
+              <c>17-18 d: qwdkqdsddddhdsxxwk</c>
+            </r>
+            <r>
+              <c>6-8 n: ngqnnnnzn</c>
+            </r>
+            <r>
+              <c>14-15 w: qwdbpsnwwwqwwww</c>
+            </r>
+            <r>
+              <c>10-13 h: hsrhnfxdhhxqb</c>
+            </r>
+            <r>
+              <c>2-4 k: kpjqgbpsq</c>
+            </r>
+            <r>
+              <c>12-13 x: xxxxxxxxxxxzrxxxxxx</c>
+            </r>
+            <r>
+              <c>7-10 j: jjjjjjbjjgk</c>
+            </r>
+            <r>
+              <c>11-15 q: mwqnxtrhwjqdqpz</c>
+            </r>
+            <r>
+              <c>2-9 b: cvcbxgxntx</c>
+            </r>
+            <r>
+              <c>5-7 x: xxdxxxc</c>
+            </r>
+            <r>
+              <c>4-7 d: dddtddkd</c>
+            </r>
+            <r>
+              <c>6-8 f: cnrfgfjn</c>
+            </r>
+            <r>
+              <c>3-4 h: ghhhh</c>
+            </r>
+            <r>
+              <c>12-15 z: mnqsvtxzclhzkzjz</c>
+            </r>
+            <r>
+              <c>5-6 m: gmdcmm</c>
+            </r>
+            <r>
+              <c>3-4 h: hhph</c>
+            </r>
+            <r>
+              <c>16-20 k: kkkkkkkkkkknkkkkkkkk</c>
+            </r>
+            <r>
+              <c>9-10 h: hhhhhhhhhhkhh</c>
+            </r>
+            <r>
+              <c>4-5 c: ccpcdf</c>
+            </r>
+            <r>
+              <c>6-11 l: lllllqlrljcl</c>
+            </r>
+            <r>
+              <c>9-12 z: zzzdzszzfzzn</c>
+            </r>
+            <r>
+              <c>9-10 b: bbbbbbbbfb</c>
+            </r>
+            <r>
+              <c>4-13 v: vvvcbvrvnvvvw</c>
+            </r>
+            <r>
+              <c>4-5 f: ffffv</c>
+            </r>
+            <r>
+              <c>4-6 m: mdmzdf</c>
+            </r>
+            <r>
+              <c>1-13 f: ffffffdffffsf</c>
+            </r>
+            <r>
+              <c>4-5 t: jttbtpttrttt</c>
+            </r>
+            <r>
+              <c>5-6 x: kxxxqb</c>
+            </r>
+            <r>
+              <c>3-5 t: twttpt</c>
+            </r>
+            <r>
+              <c>1-3 f: tfbd</c>
+            </r>
+            <r>
+              <c>1-7 w: fprwwwwwwwwwwzw</c>
+            </r>
+            <r>
+              <c>6-7 h: hhmhnkhhjhn</c>
+            </r>
+            <r>
+              <c>6-7 c: cpcwddc</c>
+            </r>
+            <r>
+              <c>6-8 q: ltsqwdqf</c>
+            </r>
+            <r>
+              <c>2-3 j: jjbjj</c>
+            </r>
+            <r>
+              <c>4-10 t: gtztntwkmt</c>
+            </r>
+            <r>
+              <c>5-6 d: xdwddddd</c>
+            </r>
+            <r>
+              <c>13-18 n: nnnnmnhzjrnnnlnnnrn</c>
+            </r>
+            <r>
+              <c>5-6 q: qqqqqqq</c>
+            </r>
+            <r>
+              <c>3-9 v: wvznrqpvvmhh</c>
+            </r>
+            <r>
+              <c>1-2 n: nbln</c>
+            </r>
+            <r>
+              <c>10-11 j: fsrjsvjjjwljzljsjpkj</c>
+            </r>
+            <r>
+              <c>1-4 n: cfnnf</c>
+            </r>
+            <r>
+              <c>13-16 j: qvlgjwhmsspdjgfxcl</c>
+            </r>
+            <r>
+              <c>2-6 k: kkkqkzh</c>
+            </r>
+            <r>
+              <c>1-6 f: ftcfff</c>
+            </r>
+            <r>
+              <c>12-16 g: ggggggggggggghgwg</c>
+            </r>
+            <r>
+              <c>4-14 w: hwwwpwwwbwwwww</c>
+            </r>
+            <r>
+              <c>3-14 c: cccccccccxccbwcccc</c>
+            </r>
+            <r>
+              <c>7-8 x: xxxxczsc</c>
+            </r>
+            <r>
+              <c>18-19 l: cplmllplhzbddwjlpvf</c>
+            </r>
+            <r>
+              <c>2-4 x: dxxxqr</c>
+            </r>
+            <r>
+              <c>5-8 w: vpxjwqwlfmzhbwwflj</c>
+            </r>
+            <r>
+              <c>3-6 v: vjlvvvvqqd</c>
+            </r>
+            <r>
+              <c>8-11 n: znnznnnnwnnn</c>
+            </r>
+            <r>
+              <c>9-10 c: ccccccccchc</c>
+            </r>
+            <r>
+              <c>3-12 l: hpljmhqcgfslm</c>
+            </r>
+            <r>
+              <c>4-5 s: dcqvxjczbxgxcrhksmvt</c>
+            </r>
+            <r>
+              <c>9-11 d: dddrnbfrfdhpndd</c>
+            </r>
+            <r>
+              <c>3-4 n: nssj</c>
+            </r>
+            <r>
+              <c>1-8 w: vwwwwwwww</c>
+            </r>
+            <r>
+              <c>7-12 h: hhhhhhhhhhhdhh</c>
+            </r>
+            <r>
+              <c>4-5 t: twtst</c>
+            </r>
+            <r>
+              <c>6-7 q: qrwqqqq</c>
+            </r>
+            <r>
+              <c>6-7 h: hghhnmbh</c>
+            </r>
+            <r>
+              <c>12-18 p: jvkpcjdkjssppmppjpp</c>
+            </r>
+            <r>
+              <c>4-5 s: ssslks</c>
+            </r>
+            <r>
+              <c>2-9 c: ccccccccccccccc</c>
+            </r>
+            <r>
+              <c>2-3 c: dvcvxcgpzjck</c>
+            </r>
+            <r>
+              <c>4-6 w: zmwnwlw</c>
+            </r>
+            <r>
+              <c>8-11 q: qqqqgqqqqqq</c>
+            </r>
+            <r>
+              <c>13-14 n: xfgnpvcwxmwfnrgnp</c>
+            </r>
+            <r>
+              <c>6-10 h: hhhhhhhhhhhh</c>
+            </r>
+            <r>
+              <c>3-6 z: gzcfwpkz</c>
+            </r>
+            <r>
+              <c>5-6 t: wtvhtttkmtttjt</c>
+            </r>
+            <r>
+              <c>7-16 f: fffwffffmfffffvf</c>
+            </r>
+            <r>
+              <c>6-10 d: lddddddddqg</c>
+            </r>
+            <r>
+              <c>3-5 t: dttttxlzlmwhd</c>
+            </r>
+            <r>
+              <c>8-12 w: wwwwwwwrwwwnw</c>
+            </r>
+            <r>
+              <c>6-7 v: spvcvvvpj</c>
+            </r>
+            <r>
+              <c>4-6 z: zzkzdzcwpzh</c>
+            </r>
+            <r>
+              <c>5-8 j: jjjjjjjzj</c>
+            </r>
+            <r>
+              <c>7-11 z: fxvhznzvzzz</c>
+            </r>
+            <r>
+              <c>9-12 s: sslksssscssrssvsvl</c>
+            </r>
+            <r>
+              <c>3-6 t: qtlwfw</c>
+            </r>
+            <r>
+              <c>10-11 l: vwssgxtszll</c>
+            </r>
+            <r>
+              <c>16-18 w: jvqrpdxlmjhwvdndtw</c>
+            </r>
+            <r>
+              <c>19-20 s: sssssssssxssssssssss</c>
+            </r>
+            <r>
+              <c>2-6 c: dzncll</c>
+            </r>
+            <r>
+              <c>15-17 f: qtlwcgtffxfrgflfcnv</c>
+            </r>
+            <r>
+              <c>3-4 p: qsjwvpbtjzpppqp</c>
+            </r>
+            <r>
+              <c>2-8 h: hzhhhhhth</c>
+            </r>
+            <r>
+              <c>3-4 g: rgdgggg</c>
+            </r>
+            <r>
+              <c>3-5 g: czzgkgbpns</c>
+            </r>
+            <r>
+              <c>6-7 t: tttttth</c>
+            </r>
+            <r>
+              <c>3-5 m: mvnmmmxzml</c>
+            </r>
+            <r>
+              <c>15-18 s: sswsssssszzssssssp</c>
+            </r>
+            <r>
+              <c>2-7 k: kzcrwpdjrtkkrgd</c>
+            </r>
+            <r>
+              <c>3-4 h: hshn</c>
+            </r>
+            <r>
+              <c>5-17 h: hrhhhhhhhhhhhhhhhhh</c>
+            </r>
+            <r>
+              <c>1-4 g: gcggglpfzgljnpstkngl</c>
+            </r>
+            <r>
+              <c>2-16 d: wbvwfvtdtjjnthkd</c>
+            </r>
+            <r>
+              <c>4-5 c: cmbccqtzjmnmcpjpwbkn</c>
+            </r>
+            <r>
+              <c>2-4 v: vjnvwnh</c>
+            </r>
+            <r>
+              <c>4-11 l: lllllllrllhllll</c>
+            </r>
+            <r>
+              <c>1-2 m: ltmmm</c>
+            </r>
+            <r>
+              <c>7-9 l: lslmlrbcsqll</c>
+            </r>
+            <r>
+              <c>16-19 q: qqqlqqqgqqqqrqqxtqfq</c>
+            </r>
+            <r>
+              <c>10-15 z: zwdzzdrsztsztrlz</c>
+            </r>
+            <r>
+              <c>11-12 g: ggvfgbgggmgg</c>
+            </r>
+            <r>
+              <c>8-9 d: dvjddddldd</c>
+            </r>
+            <r>
+              <c>4-5 g: wjrgmb</c>
+            </r>
+            <r>
+              <c>2-4 q: mqgq</c>
+            </r>
+            <r>
+              <c>4-6 j: jxjmjjfjxzx</c>
+            </r>
+            <r>
+              <c>1-2 l: ltvckkmlpkkll</c>
+            </r>
+            <r>
+              <c>4-7 v: djftvvdmv</c>
+            </r>
+            <r>
+              <c>4-5 p: ppppppp</c>
+            </r>
+            <r>
+              <c>6-12 z: jjxfvzzbmwmz</c>
+            </r>
+            <r>
+              <c>2-5 b: vpbnd</c>
+            </r>
+            <r>
+              <c>3-8 t: tttlthtntttt</c>
+            </r>
+            <r>
+              <c>4-6 r: xrrrrf</c>
+            </r>
+            <r>
+              <c>1-2 j: jjzqjjjjgs</c>
+            </r>
+            <r>
+              <c>3-4 c: ccczc</c>
+            </r>
+            <r>
+              <c>1-7 j: jjjjhdjjjj</c>
+            </r>
+            <r>
+              <c>3-6 k: jkfkkk</c>
+            </r>
+            <r>
+              <c>3-5 s: smssssnsl</c>
+            </r>
+            <r>
+              <c>5-11 d: tkqddsqhppmdkwwqvtdm</c>
+            </r>
+            <r>
+              <c>10-12 w: khrwhqwpcwww</c>
+            </r>
+            <r>
+              <c>15-19 t: ttttttttttttttpttttt</c>
+            </r>
+            <r>
+              <c>2-3 z: zrgz</c>
+            </r>
+            <r>
+              <c>14-17 p: gpzppppvjppppppppfp</c>
+            </r>
+            <r>
+              <c>15-17 p: ppvppppppppqppdpppzp</c>
+            </r>
+            <r>
+              <c>3-9 b: cbbpcbbbhbbbbnbbb</c>
+            </r>
+            <r>
+              <c>2-8 k: lvkstqvhssd</c>
+            </r>
+            <r>
+              <c>2-6 c: clcccccc</c>
+            </r>
+            <r>
+              <c>6-9 s: cgsssgsdw</c>
+            </r>
+            <r>
+              <c>1-4 p: pgpppp</c>
+            </r>
+            <r>
+              <c>9-16 z: zzzpmzzzxzzztzfz</c>
+            </r>
+            <r>
+              <c>14-15 j: jjjjjjjjjjjjjjtjj</c>
+            </r>
+            <r>
+              <c>5-9 b: rkctbdgbkcwvjxtz</c>
+            </r>
+            <r>
+              <c>13-16 d: dddddzddddkddddddddd</c>
+            </r>
+            <r>
+              <c>1-6 x: xlxxxhbgxfbmxzx</c>
+            </r>
+            <r>
+              <c>3-17 m: lbbsnfclmmctgfkvf</c>
+            </r>
+            <r>
+              <c>2-4 s: ssspss</c>
+            </r>
+            <r>
+              <c>8-12 w: wwwwwtwwgwwdww</c>
+            </r>
+            <r>
+              <c>2-4 t: ttgt</c>
+            </r>
+            <r>
+              <c>1-3 m: dmwjcbhlv</c>
+            </r>
+            <r>
+              <c>1-13 g: gggpghgcrggggntg</c>
+            </r>
+            <r>
+              <c>11-17 x: wxxxzxxtxxxxxxjxxxxx</c>
+            </r>
+            <r>
+              <c>14-15 j: jxjjhvxcdpbvjhknjrf</c>
+            </r>
+            <r>
+              <c>13-17 t: ttttttttttttttttpt</c>
+            </r>
+            <r>
+              <c>13-16 j: jjjjjjjjjjjjwjjjjj</c>
+            </r>
+            <r>
+              <c>7-9 w: wwwwwwhwm</c>
+            </r>
+            <r>
+              <c>3-5 w: rwwwc</c>
+            </r>
+            <r>
+              <c>4-5 l: zlltpl</c>
+            </r>
+            <r>
+              <c>2-4 j: nmbjjj</c>
+            </r>
+            <r>
+              <c>13-14 b: bqhbvsxbjvhchnnzbtb</c>
+            </r>
+            <r>
+              <c>2-3 k: cgtn</c>
+            </r>
+            <r>
+              <c>4-6 h: sfmjhnm</c>
+            </r>
+            <r>
+              <c>10-11 r: nrmcvgbdldn</c>
+            </r>
+            <r>
+              <c>2-6 r: rqrrrrr</c>
+            </r>
+            <r>
+              <c>14-18 r: rrrrrrrrrvrrrdrrrrr</c>
+            </r>
+            <r>
+              <c>10-11 g: jdgggcctgsg</c>
+            </r>
+            <r>
+              <c>9-14 f: stfflfrpjfffhxff</c>
+            </r>
+            <r>
+              <c>4-6 c: cccxcjcwc</c>
+            </r>
+            <r>
+              <c>13-17 w: rwwwwkwwwgwgswxfpwwc</c>
+            </r>
+            <r>
+              <c>7-9 g: ggggggcgrg</c>
+            </r>
+            <r>
+              <c>6-10 j: fjmjjjjdjkjmj</c>
+            </r>
+            <r>
+              <c>10-12 h: qswhkndjhqkh</c>
+            </r>
+            <r>
+              <c>4-12 z: zfzzzzzzzzkzzzzzzz</c>
+            </r>
+            <r>
+              <c>1-9 t: tqtttwtbxtgtzp</c>
+            </r>
+            <r>
+              <c>13-14 p: bppppppvpkpbppppp</c>
+            </r>
+            <r>
+              <c>7-11 m: phxfmmwmmwm</c>
+            </r>
+            <r>
+              <c>4-14 d: ddddddhdddddcbddd</c>
+            </r>
+            <r>
+              <c>1-6 l: mlllllll</c>
+            </r>
+            <r>
+              <c>6-13 z: nzzzztzznjcckznz</c>
+            </r>
+            <r>
+              <c>3-8 p: pppppppppppp</c>
+            </r>
+            <r>
+              <c>10-17 r: rrrrrrrrrdrrrrrrrr</c>
+            </r>
+            <r>
+              <c>15-18 j: bvswjgxvwdjcgdjqjjr</c>
+            </r>
+            <r>
+              <c>5-6 q: rqqkqq</c>
+            </r>
+            <r>
+              <c>7-15 k: kfkjsqlkzngkkvrmkzkv</c>
+            </r>
+            <r>
+              <c>2-6 p: gpwhqpbpgdrprbbp</c>
+            </r>
+            <r>
+              <c>1-7 x: rxxwxxxxxxrfxxfxqxx</c>
+            </r>
+            <r>
+              <c>14-15 x: xxxxxxfxxxxxxxxxgxxx</c>
+            </r>
+            <r>
+              <c>9-10 f: frskkfnffh</c>
+            </r>
+            <r>
+              <c>1-11 s: qsssssspsssss</c>
+            </r>
+            <r>
+              <c>4-11 g: zkxvrprgzxjcbg</c>
+            </r>
+            <r>
+              <c>11-14 g: ggggggggggggggggg</c>
+            </r>
+            <r>
+              <c>6-7 q: qqqqvqhq</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="174" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>REGEX_Match(REGEX_Replace([Field1], ".*:", ""), 
+	REGEX_Replace([Field1], "^(\d+)-(\d+) (.).*$", "^[^$3]*\($3[^$3]*\){$1,$2}$"))</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>REGEX_Match(REGEX_Replace([Field1], ".*:", ""), 
+	REGEX_Replace([Field1], "^(\d+...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="162" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>REGEX_Match(REGEX_Replace([Field1], ".*:", ""), 
+	REGEX_Replace([Field1], "^(\d+)-(\d+) (.).*$", "\(^\(?=.{$1}[^$3]\)\(?=.{$2}$3\).*$\)|\(^\(?=.{$1}$3\)\(?=.{$2}[^$3]\).*$\)"))</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>REGEX_Match(REGEX_Replace([Field1], ".*:", ""), 
+	REGEX_Replace([Field1], "^(\d+...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Day2</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
