@@ -329,6 +329,97 @@
         </Annotation>
       </Properties>
     </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
   </Nodes>
   <Connections>
     <Connection>
@@ -525,6 +616,48 @@
               <Description>Macro Output (7)</Description>
               <Name>Macro Output (7)</Name>
               <ToolId value="7" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>In order to get the SessionID:</Description>
+              <Name>Label (23)</Name>
+              <ToolId value="23" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>1 - Open adventofcode.com in Chrome and log in</Description>
+              <Name>Label (26)</Name>
+              <ToolId value="26" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>2 - Hit F12 (open developer tools)</Description>
+              <Name>Label (24)</Name>
+              <ToolId value="24" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>3 - Navigate to Application Tab</Description>
+              <Name>Label (25)</Name>
+              <ToolId value="25" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>4 - Go to Cookies (on the left)</Description>
+              <Name>Label (27)</Name>
+              <ToolId value="27" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>5 - Open Cookies and find "session" cookie</Description>
+              <Name>Label (28)</Name>
+              <ToolId value="28" />
+            </Question>
+            <Question>
+              <Type>Label</Type>
+              <Description>6 - Copy/Paste just the value of the session cookie</Description>
+              <Name>Label (29)</Name>
+              <ToolId value="29" />
             </Question>
             <Question>
               <Type>TextBox</Type>
