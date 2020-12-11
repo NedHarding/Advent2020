@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="162" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="True" />
+          <Name>Input1</Name>
+          <Abbrev />
+          <ShowFieldMap value="False" />
+          <Optional value="False" />
+          <FileInput>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\projects\Advent2020\Day11_In1.yxdb</File>
+              <FormatSpecificOptions />
+            </Configuration>
+          </FileInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Day11_In1.yxdb</DefaultAnnotationText>
+          <Left value="True" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="File: C:\projects\Advent2020\AoC_2020_11_87be.txt" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="390" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>Data</UpdateField_Name>
+          <CreateField_Name>A</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="96" />
+          <Expression>// left side
+iif(mod(ID, 95)=0, 0, -(([row-96:data]='#') + ([row-1:data]='#') +([row+94:data]='#')))+
+//right side
+iif(mod(ID, 95)=94, 0, -(([row-94:data]='#') + ([row+1:data]='#') +([row+96:data]='#')))+
+//center
+-(([row-95:data]='#') + ([row+95:data]='#'))</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>// left side
+iif(mod(ID, 95)=0, 0, -(([row-96:data]='#') + ([...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="File: C:\projects\Advent2020\AoC_2020_11_87be.txt" type="String" />
+            <Field description="Formula: // left side&#xA;iif(mod(ID, 95)=0, 0, -(([row-96:data]='#') + ([row-1:data]='#') +([row+94:data]='#')))+&#xA;//right side&#xA;iif(mod(ID, 95)=94, 0, -(([row-94:data]='#') + ([row+1:data]='#') +([row+96:data]='#')))+&#xA;//center&#xA;-(([row-95:data]='#') + ([row+95:data]='#'))" name="A" source="Formula: // left side&#xA;iif(mod(ID, 95)=0, 0, -(([row-96:data]='#') + ([row-1:data]='#') +([row+94:data]='#')))+&#xA;//right side&#xA;iif(mod(ID, 95)=94, 0, -(([row-94:data]='#') + ([row+1:data]='#') +([row+96:data]='#')))+&#xA;//center&#xA;-(([row-95:data]='#') + ([row+95:data]='#'))" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="if [a]=0 &amp;&amp; [Data]='L' then&#xA;	'#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA;	'L'&#xA;else&#xA;	[Data]&#xA;endif&#xA;	" field="Data" size="1" type="String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data = if [a]=0 &amp;&amp; [Data]='L' then
+	'#'
+elseif [a]&gt;=4 &amp;&amp; [Data]='#' then
+	'L'
+el...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+            <Field description="Formula: // left side&#xA;iif(mod(ID, 95)=0, 0, -(([row-96:data]='#') + ([row-1:data]='#') +([row+94:data]='#')))+&#xA;//right side&#xA;iif(mod(ID, 95)=94, 0, -(([row-94:data]='#') + ([row+1:data]='#') +([row+96:data]='#')))+&#xA;//center&#xA;-(([row-95:data]='#') + ([row+95:data]='#'))" name="A" source="Formula: // left side&#xA;iif(mod(ID, 95)=0, 0, -(([row-96:data]='#') + ([row-1:data]='#') +([row+94:data]='#')))+&#xA;//right side&#xA;iif(mod(ID, 95)=94, 0, -(([row-94:data]='#') + ([row+1:data]='#') +([row+96:data]='#')))+&#xA;//center&#xA;-(([row-95:data]='#') + ([row+95:data]='#'))" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="570" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="R" selected="False" />
+            <SelectField field="A" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="666" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Data</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2020-12-10 22:30:30</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>#</Operand>
+              <StartDate>2020-12-10 22:30:30</StartDate>
+              <EndDate>2020-12-10 22:30:30</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Data] = "#"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="858" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Output8</Name>
+          <Abbrev />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Output</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1350" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Iterate</Name>
+          <Abbrev />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Output</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="762" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Data" action="Count" rename="Count" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Count" source="Summarize: Count - Data" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="510" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Data</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2020-12-10 22:30:30</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>#</Operand>
+              <StartDate>2020-12-10 22:30:30</StartDate>
+              <EndDate>2020-12-10 22:30:30</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Data] = "#"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="File: C:\projects\Advent2020\AoC_2020_11_87be.txt" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="File: C:\projects\Advent2020\AoC_2020_11_87be.txt" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="606" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Data" action="Count" rename="Count" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Count" source="Summarize: Count - Data" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="846" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="True">
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Count" selected="True" rename="Right_Count" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Count" source="Summarize: Count - Data" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Count" source="Summarize: Count - Data" type="Int64" />
+            <Field name="Right_Count" source="Summarize: Count - Data" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Count" source="Summarize: Count - Data" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="930" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Count]!=[Right_Count]" field="Changed" size="1" type="Bool" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Changed = [Count]!=[Right_Count]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Count" source="Summarize: Count - Data" type="Int64" />
+            <Field name="Right_Count" source="Summarize: Count - Data" type="Int64" />
+            <Field name="Changed" source="Formula: [Count]!=[Right_Count]" type="Bool" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="1062" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Source_Count" selected="False" input="Source_" />
+                <SelectField field="Source_Right_Count" selected="False" input="Source_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+            <Field name="Changed" source="Formula: [Count]!=[Right_Count]" type="Bool" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1158" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Changed] || IsNull([Changed])</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Changed] || IsNull([Changed])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+            <Field name="Changed" source="Formula: [Count]!=[Right_Count]" type="Bool" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+            <Field name="Changed" source="Formula: [Count]!=[Right_Count]" type="Bool" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1242" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Changed" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="RecordID: Starting Value=0" type="Int16" />
+            <Field name="Data" size="1" source="Formula: if [a]=0 &amp;&amp; [Data]='L' then&#xA; '#'&#xA;elseif [a]&gt;=4 &amp;&amp; [Data]='#' then&#xA; 'L'&#xA;else&#xA; [Data]&#xA;endif&#xA; " type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="20" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="20" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="True" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="18" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="True" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Join" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="True" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="True" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Day11_Itertative1</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (2)</Name>
+          <ToolId value="2" />
+          <Questions>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description />
+              <Name>Macro Input (1)</Name>
+              <ToolId value="1" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (8)</Description>
+              <Name>Macro Output (8)</Name>
+              <ToolId value="8" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (10)</Description>
+              <Name>Macro Output (10)</Name>
+              <ToolId value="10" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="33" />
+      <MacroInputs />
+      <MacroOutputs />
+      <IterativeMacro>
+        <Input>Input1</Input>
+        <Output>Iterate</Output>
+        <IterationLimit value="150" />
+        <LimitBehavior>Error</LimitBehavior>
+        <OutputMode>AllSame</OutputMode>
+      </IterativeMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="1" Selected="True" />
+        <Tool ToolId="8" Selected="True" />
+        <Tool ToolId="10" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
